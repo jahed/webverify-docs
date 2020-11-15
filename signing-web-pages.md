@@ -54,6 +54,10 @@ ZlxVaS... and so on.
 -----END PGP SIGNATURE-----
 ```
 
+{% hint style="info" %}
+If you have multiple HTML files, [see this script](https://github.com/jahed/webverify/blob/master/contrib/sign-html.sh).
+{% endhint %}
+
 6. You're done! WebVerify will detect your signature and verify your web page.
 
 ![A verified page.](.gitbook/assets/verified.png)
