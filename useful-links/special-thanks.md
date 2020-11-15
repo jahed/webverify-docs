@@ -10,6 +10,7 @@ description: WebVerify would not be possible without the work of many other proj
 * [Libravatar](https://www.libravatar.org/) - Universal email-based avatars.
 * [js-md5](https://github.com/emn178/js-md5) - A JavaScript implementation of MD5.
 * [Internet Archive](https://archive.org) - Archives web pages.
+* [Cloudflare](https://www.cloudflare.com/) - Provides a [DNS-over-HTTPS JSON endpoint](https://developers.cloudflare.com/1.1.1.1/dns-over-https/json-format) used for Libravatar's DNS-based federation.
 
 
 
