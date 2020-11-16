@@ -20,7 +20,7 @@
 ## Useful Links
 
 * [GitHub](https://github.com/jahed/webverify)
-* [Donate](https://www.patreon.com/jahed)
+* [Donate](https://jahed.dev/donate)
 * [Blog](https://jahed.dev/tags/webverify)
 * [Special Thanks](useful-links/special-thanks.md)
 
