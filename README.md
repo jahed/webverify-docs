@@ -18,9 +18,5 @@ Continue reading to find out how it works.
 
 ![A Verified Page](.gitbook/assets/preview.png)
 
-{% hint style="info" %}
-WebVerify is a work in progress. If you find anything missing or needing improvement, [please let me know](https://github.com/jahed/webverify).
-{% endhint %}
-
 
 
